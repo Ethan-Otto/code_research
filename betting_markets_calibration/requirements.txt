@@ -29,3 +29,7 @@ tqdm>=4.65.0
 
 # Additional utilities
 python-dateutil>=2.8.0
+
+# Timeseries analysis
+ruptures>=1.1.9  # Change point detection (PELT algorithm)
+statsmodels>=0.14.0  # Panel data regression, GEE models
